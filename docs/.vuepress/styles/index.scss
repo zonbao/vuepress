@@ -1,0 +1,14 @@
+:root {
+	--c-bg-sidebar: #F5F7F9;
+	--c-border: #E6ECF1;
+	--c-bg-light: var(--c-bg-sidebar);
+	--c-details-bg: var(--c-bg-sidebar);
+	--content-width: 960px;
+    --homepage-width: 1200px;
+}
+.site-name{
+	display: none;
+}
+.navbar .navbar-links-wrapper{
+	font-size: 1.1em;
+}

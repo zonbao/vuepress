@@ -1,0 +1,20 @@
+<template><h1 id="基本设置" tabindex="-1"><a class="header-anchor" href="#基本设置" aria-hidden="true">#</a> 基本设置</h1>
+<h2 id="修改网站图标" tabindex="-1"><a class="header-anchor" href="#修改网站图标" aria-hidden="true">#</a> 修改网站图标</h2>
+<h2 id="修改网站logo" tabindex="-1"><a class="header-anchor" href="#修改网站logo" aria-hidden="true">#</a> 修改网站Logo</h2>
+<h2 id="修改底部版权" tabindex="-1"><a class="header-anchor" href="#修改底部版权" aria-hidden="true">#</a> 修改底部版权</h2>
+<h2 id="修改欢迎信息" tabindex="-1"><a class="header-anchor" href="#修改欢迎信息" aria-hidden="true">#</a> 修改欢迎信息</h2>
+<h2 id="添加底部导航" tabindex="-1"><a class="header-anchor" href="#添加底部导航" aria-hidden="true">#</a> 添加底部导航</h2>
+<h2 id="添加多货币支持" tabindex="-1"><a class="header-anchor" href="#添加多货币支持" aria-hidden="true">#</a> 添加多货币支持</h2>
+<h2 id="修改邮件底部模板" tabindex="-1"><a class="header-anchor" href="#修改邮件底部模板" aria-hidden="true">#</a> 修改邮件底部模板</h2>
+<h2 id="修改网站的邮箱地址" tabindex="-1"><a class="header-anchor" href="#修改网站的邮箱地址" aria-hidden="true">#</a> 修改网站的邮箱地址</h2>
+<h2 id="配置接收退件电子邮件" tabindex="-1"><a class="header-anchor" href="#配置接收退件电子邮件" aria-hidden="true">#</a> 配置接收退件电子邮件</h2>
+<h2 id="配置付款失败电子邮件" tabindex="-1"><a class="header-anchor" href="#配置付款失败电子邮件" aria-hidden="true">#</a> 配置付款失败电子邮件</h2>
+<h2 id="配置电子邮件发件服务" tabindex="-1"><a class="header-anchor" href="#配置电子邮件发件服务" aria-hidden="true">#</a> 配置电子邮件发件服务</h2>
+<h2 id="修改联系页面的邮箱地址" tabindex="-1"><a class="header-anchor" href="#修改联系页面的邮箱地址" aria-hidden="true">#</a> 修改联系页面的邮箱地址</h2>
+<h2 id="配置google分析与转化代码" tabindex="-1"><a class="header-anchor" href="#配置google分析与转化代码" aria-hidden="true">#</a> 配置Google分析与转化代码</h2>
+<h2 id="配置网站的默认标题-描述与关键词" tabindex="-1"><a class="header-anchor" href="#配置网站的默认标题-描述与关键词" aria-hidden="true">#</a> 配置网站的默认标题,描述与关键词</h2>
+<h2 id="设置收款" tabindex="-1"><a class="header-anchor" href="#设置收款" aria-hidden="true">#</a> 设置收款</h2>
+<h2 id="设置运费" tabindex="-1"><a class="header-anchor" href="#设置运费" aria-hidden="true">#</a> 设置运费</h2>
+<h2 id="添加目录" tabindex="-1"><a class="header-anchor" href="#添加目录" aria-hidden="true">#</a> 添加目录</h2>
+<h2 id="发布产品" tabindex="-1"><a class="header-anchor" href="#发布产品" aria-hidden="true">#</a> 发布产品</h2>
+</template>
